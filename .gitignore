@@ -1,0 +1,43 @@
+# Qt/qmake generated files
+Makefile
+Makefile.*
+.qmake.stash
+moc_*.cpp
+moc_*.o
+moc_predefs.h
+qrc_*.cpp
+*.o
+*.obj
+*.before_*
+*.a
+*.so
+*.dll
+
+# Local build output and binaries
+build-*/
+debug/
+release/
+vehicle_terminal
+vehicle_simulator
+map_probe
+map_search_test
+
+# Runtime data and logs
+*.log
+*.core
+media/
+
+# Local secrets and machine-specific settings
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+.config/
+
+# Python/cache/editor files
+__pycache__/
+*.pyc
+.vscode/
+.idea/

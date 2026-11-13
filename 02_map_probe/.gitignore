@@ -1,0 +1,8 @@
+tianditu.key
+*.key
+*.log
+*.o
+Makefile
+.qmake.stash
+map_probe
+map_probe.exe
